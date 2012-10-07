@@ -1,0 +1,25 @@
+ul#list-nav li a {
+ text-decoration:none;
+ padding:10px 0;
+ width:100%;
+ background:#485e49;
+ color:#eee;
+ float:left;
+}
+
+ul#list-nav {
+  margin:0px;
+  padding:0;
+  list-style:none;
+  width:100%;
+}
+
+
+ul#list-nav li {
+  display:inline-continuous;
+  
+}
+
+.ele1:hover{
+font-size: 15px;
+}
