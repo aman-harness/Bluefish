@@ -1,4 +1,8 @@
 Onlogin::Application.routes.draw do
+  resources :microposts
+
+  resources :users
+
   resources :logins
 
   # The priority is based upon order of creation:
